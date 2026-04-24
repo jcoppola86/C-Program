@@ -1,16 +1,10 @@
 # CS 250 Final Project
 
-## Project Summary
-This project focused on developing a travel application using a Scrum-Agile approach. The goal was to apply the software development life cycle in an Agile environment while working through different team roles.
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
+I’ve learned that understanding user needs starts with looking at things from the user’s perspective, not just the technical side. Creating user stories helped with that because it made it clear what the user is actually trying to do. It gave me a clear direction instead of guessing, and when the stories were specific, it made building features a lot smoother.
 
-## What I Did
-Throughout this project, I worked as a Scrum Master, developer, and tester. I created user stories, developed features, built test cases, and reflected on how Agile practices supported the development process.
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?  
+I approach development by breaking things into smaller parts instead of trying to do everything at once. Working in sprints made it easier to stay organized and adjust when needed. In the future, I’d want to keep using that approach along with getting feedback throughout the process instead of waiting until the end.
 
-## What I Learned
-I learned how Agile allows teams to be more flexible compared to a waterfall approach. Working in sprints made it easier to handle changes and improve communication. I also saw how important clear user stories and regular updates are for keeping development on track.
-
-## Challenges
-One challenge was working with unclear requirements at times. This slowed progress and showed how important communication with the Product Owner is. Agile helped manage this by allowing adjustments in future sprints.
-
-## Takeaways
-Overall, this project showed how Scrum-Agile improves collaboration, flexibility, and efficiency. Compared to waterfall, Agile was a better fit for this type of project because it allowed continuous feedback and improvement.
+## What does it mean to be a good team member in software development?  
+Being a good team member comes down to communication and consistency. It means staying involved, being clear about what you’re working on, and contributing to the overall goal. When everyone does that, the project runs a lot smoother.
